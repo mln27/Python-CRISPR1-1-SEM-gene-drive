@@ -18,8 +18,8 @@ def CRISPR_1_1_Progression():
     T_l = 6
     T_p = 4
     r_m = 1.175
-    mu_e = 0.05
-    mu_p = 0.05
+    mu_e = 0.175
+    mu_p = 0.175
 
     cols = generate_allele_combinations(['w', 'v', 'u', 'r', 'g', 's'])
     results_temp = []
